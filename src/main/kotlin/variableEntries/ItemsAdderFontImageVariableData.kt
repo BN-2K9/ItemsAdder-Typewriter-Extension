@@ -11,7 +11,7 @@ import dev.lone.itemsadder.api.FontImages.FontImageWrapper
 import net.kyori.adventure.text.minimessage.MiniMessage
 
 @Entry(
-    "itemsadder_FontImage",
+    "itemsadder_fontimage",
     "Get a ItemsAdder FontImage through the NameSpacedID.",
     Colors.GREEN,
     "material-symbols:description"
